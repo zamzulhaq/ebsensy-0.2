@@ -186,7 +186,7 @@ Lihat file [LICENSE](./LICENSE) untuk informasi lengkap.
 **Azzam Khalifatulhaq** — Pemilik Zamify
 
 - Email: [azzamkhalifatulhaq@gmail.com](mailto:azzamkhalifatulhaq@gmail.com)
-- GitHub: [@zamify](https://github.com/zamify)
+- GitHub: [@zamzulhaq](https://github.com/zamzulhaq/)
 
 ---
 
