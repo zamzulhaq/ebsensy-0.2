@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.local
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Internal docs & development memory (not for public)
+docs/
+memory/
+
+# OS files
+.DS_Store
+Thumbs.db
